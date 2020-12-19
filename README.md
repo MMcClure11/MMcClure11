@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Megs McClure
+###### Pronouns: they/them
+**Full Stack Developer.** Detail-oriented developer experienced in JavaScript and Ruby with a background in biology. Passionate collaborator that values diversity and creativity. Seeking hands-on coding work to improve lives.
+### Technologies: React, Redux, Rails, Ruby, HTML, CSS, Sass
+###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11)
+<p align="center">
+    <img 
+        align = "center"
+        alt="MMcClure11's GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=MMcClure11&show_icons=true"
+    />
+</p>
+<p align="center">
+    <img 
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMcClure11&show_icons=true" 
+    />
+    </a>
+</p>
