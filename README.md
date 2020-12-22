@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ###### Pronouns: they/them
 **Full Stack Software Engineer.** Detail-oriented developer experienced in JavaScript and Ruby with a background in biology. Passionate collaborator that values diversity and creativity. Seeking hands-on coding work to improve lives.
 ### Technologies: React.js, Redux, Rails, Ruby, HTML5, CSS, Sass
-###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11)
+###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11), [Twitter](https://twitter.com/MMcClure0100)
 <p align="center">
     <img 
         align = "center"
