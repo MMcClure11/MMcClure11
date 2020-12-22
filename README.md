@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # Megs McClure
 ###### Pronouns: they/them
-**Full Stack Developer.** Detail-oriented developer experienced in JavaScript and Ruby with a background in biology. Passionate collaborator that values diversity and creativity. Seeking hands-on coding work to improve lives.
-### Technologies: React, Redux, Rails, Ruby, HTML, CSS, Sass
+**Full Stack Software Engineer.** Detail-oriented developer experienced in JavaScript and Ruby with a background in biology. Passionate collaborator that values diversity and creativity. Seeking hands-on coding work to improve lives.
+### Technologies: React.js, Redux, Rails, Ruby, HTML5, CSS, Sass
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11)
 <p align="center">
     <img 
