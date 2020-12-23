@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Technologies
 #### Frontend: JavaScript (ES6), React, Redux, HTML5, CSS, Bootstrap, Sass
 #### Backend: Ruby, Rails
-### Database: SQLite3, PostgreSQL
+#### Database: SQLite3, PostgreSQL
 #### Other: OAuth(third-party user authentication), Git, Github, Heroku
 
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11), [Twitter](https://twitter.com/MMcClure0100)
