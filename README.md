@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ###### Pronouns: they/them
 **Full Stack Software Engineer.** Detail-oriented developer experienced in JavaScript and Ruby with a background in biology. Passionate collaborator that values diversity and creativity. Seeking hands-on coding work to improve lives.
 ### Technologies
-#### Frontend: JavaScript (ES6), React, Redux, HTML5, CSS, Bootstrap, Sass
+#### Frontend: JavaScript (ES6), React, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass
 #### Backend: Ruby, Ruby on Rails, ActiveModel Serializer
 #### Database: SQLite3, PostgreSQL
-#### Other: OAuth(third-party user authentication) Git, Github, Heroku
+#### Other: OAuth(third-party user authentication) Git, Github, Heroku, Google Books API
 
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11), [Twitter](https://twitter.com/MMcClure0100)
 <p align="center">
