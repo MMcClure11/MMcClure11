@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 
 # Megs McClure
 ###### Pronouns: they/them
-**Full Stack Software Engineer.** Greetings! My preferred name is Megs and I use they/them pronouns. I am a Spanish and English speaking Full Stack Software Engineer with a background in Biology and Philosophy. I transitioned into web development after I built my first website for the Mexican non-profit Permanencia Voluntaria using wix.com. It was a thrill to create something that helped support the local community and I have enjoyed continually learning new coding skill!
-
-I am...
-Detail-oriented: Got a bug that needs fixing? Something not quite right with the logic or your syntax of a funtion? I have a knack for seeing tiny details that are easily overlooked.
-A collaborator: Sure it's fun to build solo projects and have ownership of what you are creating, but working with a team to make products better than I could ever do alone is how I like to work!
-A self learner: What better way to spend Saturday morning than learning a new skill?!
-A believer in the value of Diversity: I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
-### Technologies
-#### Frontend: JavaScript (ES6), React, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass
-#### Backend: Ruby, Ruby on Rails, ActiveModel Serializer
-#### Database: SQLite3, PostgreSQL
-#### Other: OAuth(third-party user authentication) Git, Github, Heroku, Google Books API
+**Full Stack Software Engineer.** 
+### I am...
+#### Detail-oriented: Got a bug that needs fixing? Something not quite right with the logic or your syntax of a funtion? I have a knack for seeing tiny details that are easily overlooked.
+#### A collaborator: Sure it's fun to build solo projects and have ownership of what you are creating, but working with a team to make products better than I could ever do alone is how I like to work!
+#### A self learner: What better way to spend Saturday morning than learning a new skill?!
+#### A believer in the value of Diversity: I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
+## Technologies
+### Frontend: JavaScript (ES6), React, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass
+### Backend: Ruby, Ruby on Rails, ActiveModel Serializer
+### Database: SQLite3, PostgreSQL
+### Other: OAuth(third-party user authentication) Git, Github, Heroku, Google Books API
 
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11), [Twitter](https://twitter.com/MMcClure0100)
 <p align="center">
