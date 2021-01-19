@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 #### A self learner: What better way to spend Saturday morning than learning a new skill?!
 #### A believer in the value of Diversity: I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
 ## Technologies
-### Frontend: JavaScript (ES6), React, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass
-### Backend: Ruby, Ruby on Rails, ActiveModel Serializer
+### Frontend: JavaScript (ES6), React.js, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass, Jest/Enzyme
+### Backend: Sinatra, Ruby, Ruby on Rails, ActiveModel Serializer
 ### Database: SQLite3, PostgreSQL
 ### Other: OAuth(third-party user authentication) Git, Github, Heroku, Google Books API
 
