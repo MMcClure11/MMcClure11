@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 
 # Megs McClure
 ###### Pronouns: they/them
-**Full Stack Software Engineer.** 
+**Full Stack Software Engineer** 
 
-
-#### Detail-oriented: Got a bug that needs fixing? Something not quite right with the logic or your syntax of a funtion? I have a knack for seeing tiny details that are easily overlooked.
-#### A collaborator: Sure it's fun to build solo projects and have ownership of what you are creating, but working with a team to make products better than I could ever do alone is how I like to work!
-#### A self learner: What better way to spend Saturday morning than learning a new skill?!
-#### A believer in the value of Diversity: I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
+###### Detail-oriented: Got a bug that needs fixing? Something not quite right with the logic or your syntax of a funtion? I have a knack for seeing tiny details that are easily overlooked.
+###### A collaborator: Sure it's fun to build solo projects and have ownership of what you are creating, but working with a team to make products better than I could ever do alone is how I like to work!
+###### A self learner: What better way to spend Saturday morning than learning a new skill?!
+###### A believer in the value of Diversity: I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
 ## Technologies
 ### Frontend: JavaScript (ES6), React.js, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass, Jest/Enzyme
 ### Backend: Sinatra, Ruby, Ruby on Rails, ActiveModel Serializer
