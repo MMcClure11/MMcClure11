@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ###### A believer in the value of Diversity: I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
 ## Technologies
 ### Frontend: JavaScript (ES6), React.js, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass, Jest/Enzyme
-### Backend: Sinatra, Ruby, Ruby on Rails, ActiveModel Serializer
+### Backend: Sinatra, Ruby, Ruby on Rails
 ### Database: SQLite3, PostgreSQL
-### Other: OAuth(third-party user authentication) Git, Github, Heroku, Google Books API
+### Other: OAuth(third-party user authentication), Git, Github, Heroku, Google Books API
 
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11), [Twitter](https://twitter.com/MMcClure0100), [Portfolio](https://mmcclure-portfolio.netlify.app/)
 <p align="center">
