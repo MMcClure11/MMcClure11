@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11), [Twitter](https://twitter.com/MMcClure0100), [Portfolio](https://mmcclure-portfolio.netlify.app/)
 <p align="center">
     <img 
-        align = "center"
+        align = "center space-around"
         alt="MMcClure11's GitHub Stats"
         src="https://github-readme-stats.vercel.app/api?username=MMcClure11&show_icons=true"
     />
     <img 
-        align="center"
+        align="center space-around"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMcClure11&show_icons=true" 
     />
     </a>
