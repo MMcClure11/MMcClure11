@@ -34,8 +34,6 @@ Here are some ideas to get you started:
         alt="MMcClure11's GitHub Stats"
         src="https://github-readme-stats.vercel.app/api?username=MMcClure11&show_icons=true"
     />
-</p>
-<p align="center">
     <img 
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMcClure11&show_icons=true" 
