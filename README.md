@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ###### A self learner: What better way to spend Saturday morning than learning a new skill?! Currently studying TDD in React. (Unless it's below 0 F. Then I bundle up because it's too cold to type.)
 ###### A believer in the value of Diversity: I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
 ## Technologies
-### Frontend: JavaScript (ES6), React.js, Redux, HTML5, CSS, Bootstrap, Sass, Jest/Enzyme
+### Frontend: JavaScript (ES6), React.js, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass, Jest/Enzyme
 ### Backend: Sinatra, Ruby, Ruby on Rails
 ### Database: SQLite3, PostgreSQL
 ### Other: OAuth(third-party user authentication), Github, Heroku, Google Books API
