@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###### Detail-oriented: Got a bug that needs fixing? Something not quite right with the logic or your syntax of a funtion? I have a knack for seeing tiny details that are easily overlooked.
 ###### A collaborator: Sure it's fun to build solo projects and have ownership of what you are creating, but working with a team to make products better than I could ever do alone is how I like to work!
-###### A self learner: What better way to spend Saturday morning than learning a new skill?! Currently studying TDD in React. (Unless it's below 0 F. Then I bundle up because it's too cold to type.)
+###### A self learner: What better way to spend Saturday morning than learning a new skill?! Currently studying TDD in React and Java. (Unless it's below 0 F. Then I bundle up because it's too cold to type.)
 ###### A believer in the value of Diversity: I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
 ## Technologies
 ### Frontend: JavaScript (ES6), React.js, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass, Jest/Enzyme
