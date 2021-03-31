@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 ###### Detail-oriented: Got a bug that needs fixing? Something not quite right with the logic or your syntax of a funtion? I have a knack for seeing tiny details that are easily overlooked.
 ###### A collaborator: Sure it's fun to build solo projects and have ownership of what you are creating, but working with a team to make products better than I could ever do alone is how I like to work!
-###### A self learner: What better way to spend Saturday morning than learning a new skill? Currently studying Elixir and RSpec.
+###### 🌱  A self learner: What better way to spend Saturday morning than learning a new skill? Currently studying Elixir and RSpec. 🌱 
 ###### A believer in the value of Diversity: I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
 ## Technologies
-### Frontend: JavaScript (ES6), React.js, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass, Jest/Enzyme
+### Frontend: JavaScript (ES6), React.js, Redux, Redux-Thunk, HTML5, CSS, Bootstrap, Sass
 ### Backend: Sinatra, Ruby, Ruby on Rails
-### Database: SQLite3, PostgreSQL (in the context of Rails, basic query knowledge)
+### Database: SQLite3, PostgreSQL (in the context of Rails with basic query knowledge)
 ### Other: OAuth(third-party user authentication), Github, Heroku, Google Books API
 
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11), [Twitter](https://twitter.com/MMcClure0100), [Portfolio](https://mmcclure-portfolio.netlify.app/)
