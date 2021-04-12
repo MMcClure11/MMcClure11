@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ###### 🌱  A self learner: What better way to spend Saturday morning than learning a new skill? Currently studying Elixir and RSpec. 🌱 
 ###### A believer in the value of Diversity: I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
 ## Technologies
-### Frontend: JavaScript (ES6), React.js(ES6 & Hooks), Redux, Redux-Thunk, HTML5, CSS, Bootstrap
+### Frontend: JavaScript (ES6), React.js (ES6, Hooks), Redux, Redux-Thunk, HTML5, CSS, Bootstrap
 ### Backend: Sinatra, Ruby, Ruby on Rails
 ### Database: SQLite3, PostgreSQL (in the context of Rails with basic query knowledge)
 ### Other: OAuth(third-party user authentication), Github, Heroku, Google Books API
