@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Megs McClure
+# Meks McClure
 ###### Pronouns: they/them
 **Full Stack Software Engineer** 
 
