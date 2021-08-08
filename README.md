@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Meks McClure
 ###### Pronouns: they/them
-**Full Stack Software Engineer** 
+**Junior Developer** 
 
 ## Technologies
 ### Frontend: JavaScript (ES6), React.js (ES6, Hooks), Redux, Redux-Thunk, HTML5, CSS, Bootstrap
