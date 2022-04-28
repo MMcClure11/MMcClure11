@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 **Junior Developer** 
 
 ## Technologies
-### Frontend: JavaScript (ES6), React.js (ES6, Hooks), Redux, Redux-Thunk, HTML5, CSS, Bootstrap
-### Backend: Sinatra, Ruby, Ruby on Rails
+### Frontend: LiveView, Phoenix, Alpine.js, JavaScript (ES6), React.js (ES6, Hooks), Redux, Redux-Thunk, HTML5, CSS, Bootstrap
+### Backend: Elixir, Sinatra, Ruby, Ruby on Rails
 ### Database: SQLite3, PostgreSQL (in the context of Rails with basic query knowledge)
 ### Other: OAuth(third-party user authentication), Github, Heroku, Google Books API
 
