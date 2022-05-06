@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Technologies
 ### Frontend: LiveView, Phoenix, Alpine.js, JavaScript (ES6), React.js (ES6, Hooks), Redux, Redux-Thunk, HTML5, CSS, Bootstrap
 ### Backend: Elixir, Sinatra, Ruby, Ruby on Rails
-### Database: SQLite3, PostgreSQL (in the context of Rails with basic query knowledge)
+### Database: PostgreSQL, SQLite3
 ### Other: OAuth(third-party user authentication), Github, Heroku, Google Books API
 
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/megmcclure/), [Dev](https://dev.to/mmcclure11), [Twitter](https://twitter.com/MMcClure0100), [Portfolio](https://mmcclure-portfolio.netlify.app/)
