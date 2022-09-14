@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Meks McClure
 ###### Pronouns: they/them
-**Junior Developer** 
+**Software Engineer** 
 
 ## Technologies
 ### Frontend: LiveView, Phoenix, Alpine.js, JavaScript (ES6), TypeScript, React.js (ES6, Hooks), Redux, Redux-Thunk, HTML5, CSS, Bootstrap
