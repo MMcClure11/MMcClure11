@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **Software Engineer** 
 
 ## Technologies
-### Frontend: LiveView, Phoenix, Alpine.js, JavaScript (ES6), TypeScript, React.js (ES6, Hooks), Redux, Redux-Thunk, HTML5, CSS, Bootstrap
+### Frontend: LiveView, Phoenix, Alpine.js, JavaScript (ES6), TypeScript, React.js (ES6, Hooks), Redux, Redux-Thunk, HTML5, CSS, TailwindCSS, Bootstrap
 ### Backend: Elixir, Sinatra, Ruby, Ruby on Rails
 ### Database: PostgreSQL, SQLite3
 ### Other: OAuth(third-party user authentication), Github, Heroku, Google Books API
